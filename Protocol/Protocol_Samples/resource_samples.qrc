@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cy5_flat.png</file>
+        <file>images/cy55_flat.png</file>
+        <file>images/disable_flat.png</file>
+        <file>images/disable.png</file>
+        <file>images/fam_flat.png</file>
+        <file>images/hex_flat.png</file>
+        <file>images/rox_flat.png</file>
+        <file>images/expanded_tree.png</file>
+        <file>images/not_expanded_tree.png</file>
+        <file>translations/protocol_sample_ru.qm</file>
+        <file>translations/protocol_sample_en.qm</file>
+    </qresource>
+</RCC>

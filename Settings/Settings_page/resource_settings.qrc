@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/link.png</file>
+        <file>images/connection-32.png</file>
+        <file>images/Ethernet_1.png</file>
+        <file>images/USB-32.png</file>
+        <file>images/USB.png</file>
+        <file>images/ip-32.png</file>
+        <file>images/eye_32.png</file>
+        <file>translations/settings_page_ru.qm</file>
+        <file>images/upgrade-32.png</file>
+        <file>translations/settings_page_en.qm</file>
+        <file>images/tools_32.png</file>
+        <file>images/measure_tube_32.png</file>
+        <file>images/timer_flat.png</file>
+        <file>images/channels/cy5_flat.png</file>
+        <file>images/channels/cy55_flat.png</file>
+        <file>images/channels/disable_flat.png</file>
+        <file>images/channels/fam_flat.png</file>
+        <file>images/channels/hex_flat.png</file>
+        <file>images/channels/rox_flat.png</file>
+        <file>images/down_arrow_wide.png</file>
+        <file>images/ok_32.png</file>
+        <file>images/ok_48.png</file>
+        <file>images/ok_32_48.png</file>
+        <file>images/load_32.png</file>
+        <file>images/video_flat.png</file>
+    </qresource>
+</RCC>

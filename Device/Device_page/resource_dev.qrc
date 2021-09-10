@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/close_block.png</file>
+        <file>images/open_block.png</file>
+        <file>images/pause_1.png</file>
+        <file>images/start_1.png</file>
+        <file>images/stop_1.png</file>
+        <file>images/spectrum.png</file>
+        <file>images/temperature.png</file>
+        <file>images/dna_2.ico</file>
+        <file>images/run_time.png</file>
+        <file>images/Temp_new.png</file>
+        <file>images/Spectrum_new.png</file>
+        <file>images/Info.png</file>
+        <file>translations/device_page_ru.qm</file>
+        <file>images/bad_pro.png</file>
+        <file>images/ok_pro.png</file>
+        <file>images/bad_pro_16.png</file>
+        <file>images/continue_32.png</file>
+        <file>translations/device_page_en.qm</file>
+        <file>images/LastRun_48.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/local-disk.png</file>
+        <file>images/usb-disk.png</file>
+        <file>images/www-disk.png</file>
+        <file>images/local_disk-48.png</file>
+        <file>images/usb_48.png</file>
+        <file>images/www-48.png</file>
+        <file>translations/protocol_list_ru.qm</file>
+        <file>translations/protocol_list_en.qm</file>
+        <file>images/back.png</file>
+    </qresource>
+</RCC>

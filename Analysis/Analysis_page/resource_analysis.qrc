@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/clear_flat_16.png</file>
+        <file>images/open_flat.png</file>
+        <file>images/Info.png</file>
+        <file>images/program.png</file>
+        <file>images/Spectrum_new.png</file>
+        <file>images/sample.png</file>
+        <file>images/save_flat.png</file>
+        <file>images/plate.png</file>
+        <file>translations/analysis_page_ru.qm</file>
+        <file>translations/analysis_page_en.qm</file>
+    </qresource>
+</RCC>

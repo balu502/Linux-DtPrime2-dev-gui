@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/clear_flat_16.png</file>
+        <file>images/open_flat.png</file>
+        <file>images/Info.png</file>
+        <file>images/wait_1.gif</file>
+        <file>images/plate.png</file>
+        <file>images/program.png</file>
+        <file>images/sample.png</file>
+        <file>images/dna_2.ico</file>
+        <file>images/open_usb.png</file>
+        <file>translations/protocol_page_ru.qm</file>
+        <file>translations/protocol_page_en.qm</file>
+    </qresource>
+</RCC>

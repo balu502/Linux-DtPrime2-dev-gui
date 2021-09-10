@@ -1,0 +1,12 @@
+#ifndef DEVICE_INFO_GLOBAL_H
+#define DEVICE_INFO_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(DEVICE_INFO_LIBRARY)
+#  define DEVICE_INFOSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define DEVICE_INFOSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // DEVICE_INFO_GLOBAL_H

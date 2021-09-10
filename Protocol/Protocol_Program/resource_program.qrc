@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/foto_mc.png</file>
+        <file>images/foto.png</file>
+        <file>images/grad_step.png</file>
+        <file>images/grad.png</file>
+        <file>images/incr_temp.png</file>
+        <file>images/incr_time.png</file>
+        <file>translations/protocol_program_ru.qm</file>
+        <file>translations/protocol_program_en.qm</file>
+    </qresource>
+</RCC>
